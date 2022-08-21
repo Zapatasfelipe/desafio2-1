@@ -29,7 +29,8 @@ body {
     height: 6em;
     padding: 3em; 
     font-size: 2em; 
-    background-image: url("/assets/imgs/imagen0.jpg");
+    /* background-image: url("/assets/imgs/imagen0.jpg"); */
+    background-image: url("../imgs/imagen0.jpg");   
     background-repeat: no-repeat;
     background-size:auto; /* pueden probar con auto, inherit, contain */
     background-position:right; /* pueden probar con left, right, top, bottom */
